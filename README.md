@@ -72,8 +72,8 @@ Feel free to reach out to me:
 
 <p align="center">
   <a href="https://github.com/Dr-irshad">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imirshad25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imirshad25&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dr-irshad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dr-irshad&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
